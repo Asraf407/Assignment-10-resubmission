@@ -1,0 +1,12 @@
+.Home{
+    background: lightslategray no-repeat center /cover;
+    padding-top: 30px;
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 25px;
+    min-height: calc(100vh-100px);
+    align-content: center;
+    text-decoration: none;
+}

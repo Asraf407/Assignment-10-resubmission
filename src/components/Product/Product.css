@@ -1,0 +1,10 @@
+.product_card{
+    background: #fff;
+    padding: 70px;
+    border-radius: 10px;
+    display: block;
+    text-decoration: none;
+    color: initial;
+    text-align: center;
+
+}
